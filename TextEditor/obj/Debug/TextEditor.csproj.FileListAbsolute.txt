@@ -1,0 +1,138 @@
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\ApplicationIcon.png
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\Background.png
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\TextEditor.dll
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\TextEditor.pdb
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\ResolveAssemblyReference.cache
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\App.g.i.cs
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\MainPage.g.i.cs
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\OpenPage.g.i.cs
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\TextEditor.dll
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\AppManifest.xaml
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\TextEditor.xap
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\SavePage.g.i.cs
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\XapCacheFile.xml
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\Help.g.i.cs
+G:\Users\Agustinus\Desktop\MobileA(2014)\Tugas03\TextEditor\TextEditor\obj\Debug\SplashScreenControl.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ApplicationIcon.png
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Background.png
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.dll
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.pdb
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\AppManifest.xaml
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.xap
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.dll
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.xml
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\App.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\Help.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\MainPage.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\OpenPage.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\SavePage.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\SplashScreenControl.g.i.cs
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.dll
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Documents\Welly\Kuliah - ITS '12 Teknik Informatika\Mata Kuliah\Semester 4\Pemrograman Mobile\TextEditor (2)\TextEditor\TextEditor\obj\Debug\XapCacheFile.xml
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Background.png
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.pdb
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\AppManifest.xaml
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.xap
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\ResolveAssemblyReference.cache
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\App.g.i.cs
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\Help.g.i.cs
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\MainPage.g.i.cs
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\OpenPage.g.i.cs
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\SavePage.g.i.cs
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\SplashScreenControl.g.i.cs
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\XapCacheFile.xml
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Elmah.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\RateMyApp.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ar-SA\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\de-DE\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\en-GB\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\en-US\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\es-ES\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\fi-FI\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\fr-FR\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\he-IL\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\hr-HR\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\hu-HU\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\it-IT\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\lt-LT\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\nb-NO\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\nl-NL\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\pl-PL\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\pt-BR\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\pt-PT\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ro-RO\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ru-RU\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\sl-SI\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\sv-SE\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\uk-UA\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\vi-VN\RateMyApp.resources.dll
+G:\Users\Agustinus\Downloads\Compressed\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\zh-CN\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Background.png
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.pdb
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\AppManifest.xaml
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.xap
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Elmah.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\RateMyApp.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.xml
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ar-SA\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\de-DE\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\en-GB\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\en-US\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\es-ES\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\fi-FI\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\fr-FR\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\he-IL\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\hr-HR\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\hu-HU\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\it-IT\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\lt-LT\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\nb-NO\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\nl-NL\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\pl-PL\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\pt-BR\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\pt-PT\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ro-RO\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\ru-RU\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\sl-SI\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\sv-SE\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\uk-UA\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\vi-VN\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\zh-CN\RateMyApp.resources.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\App.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\Help.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\MainPage.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\OpenPage.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\SavePage.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\SplashScreenControl.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.g.resources
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\XapCacheFile.xml
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\Data.g.i.cs
