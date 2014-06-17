@@ -42,22 +42,21 @@ namespace TextEditor
             {
                 words.Add(a.kata.ToString());
             }
-            //words.Add("Study");
-            //words.Add("Don't Give Up!");
-            //words.Add("Nothing is useless");
-            //words.Add("Fighting!");
-            //words.Add("Thank you");
-            //words.Add("Arigatou Goshaimas");
-            //words.Add("Mathur Nuwun");
-            //words.Add("I'm still Standing in Here");
-            //words.Add("Fear is Nothing");
-            //words.Add("We are born to do something");
-            //words.Add("Friendship is ");
-            //words.Add("Sometimes let the storm begone, and you'll see the beautifull rainbow");
-            //words.Add("I will become ");
+            words.Add("Study");
+            words.Add("Don't Give Up!");
+            words.Add("Nothing is useless");
+            words.Add("Fighting!");
+            words.Add("Thank you");
+            words.Add("Arigatou Goshaimas");
+            words.Add("Mathur Nuwun");
+            words.Add("I'm still Standing in Here");
+            words.Add("Fear is Nothing");
+            words.Add("We are born to do something");
+            words.Add("Friendship is ");
+            words.Add("Sometimes let the storm begone, and you'll see the beautifull rainbow");
+            words.Add("I will become ");
 
             autotxt.ItemsSource = words;
-            //autotxt.ItemsSource = words;
             if (app.Content != null)
             {
                 Editor.Text = (string)app.Content;
@@ -79,31 +78,31 @@ namespace TextEditor
             ApplicationBar.IsVisible = (FeedbackOverlay.Visibility != Visibility.Visible);
         }*/
 
-        //protected override void  OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs e)
-        //{
-        //    base.OnNavigatedTo(e);
+        protected override void OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs e)
+        {
+            base.OnNavigatedTo(e);
 
-        //    var askforReview = (bool)IsolatedStorageSettings.ApplicationSettings["askforreview"];
-        //    if (askforReview)
-        //    {
-        //        //make sure we only ask once!
-        //        IsolatedStorageSettings.ApplicationSettings["askforreview"] = false;
-        //        var returnvalue = MessageBox.Show("Thank you for using TextLight for a while now, would you like to review this app?", "Please review my app", MessageBoxButton.OKCancel);
-        //        if (returnvalue == MessageBoxResult.OK)
-        //        {
-        //            var marketplaceReviewTask = new MarketplaceReviewTask();
-        //            marketplaceReviewTask.Show();
-        //        }
-        //        else
-        //        {
-        //            var last = MessageBox.Show("Sorry To Hear You didn't want to rate TextLight.","Tells us about your experience or suggest how we can make it even better.", MessageBoxButton.OKCancel);
-        //            if (last == MessageBoxResult.OK)
-        //            {
-                        
-        //            }
-        //        }
-        //    }
-        //}
+            var askforReview = (bool)IsolatedStorageSettings.ApplicationSettings["askforreview"];
+            if (askforReview)
+            {
+                //make sure we only ask once!
+                IsolatedStorageSettings.ApplicationSettings["askforreview"] = false;
+                var returnvalue = MessageBox.Show("Thank you for using TextLight for a while now, would you like to review this app?", "Please review my app", MessageBoxButton.OKCancel);
+                if (returnvalue == MessageBoxResult.OK)
+                {
+                    var marketplaceReviewTask = new MarketplaceReviewTask();
+                    marketplaceReviewTask.Show();
+                }
+                else
+                {
+                    var last = MessageBox.Show("Sorry To Hear You didn't want to rate TextLight.", "Tells us about your experience or suggest how we can make it even better.", MessageBoxButton.OKCancel);
+                    if (last == MessageBoxResult.OK)
+                    {
+
+                    }
+                }
+            }
+        }
         public App app = (App)Application.Current;
         // Constructor
         public MainPage()
@@ -197,6 +196,7 @@ namespace TextEditor
         {
             ShareStatusTask n = new ShareStatusTask();
             n.Status = Editor.Text;
+            n.Show();
         }
 
         private void Save_Click(object sender, EventArgs e)

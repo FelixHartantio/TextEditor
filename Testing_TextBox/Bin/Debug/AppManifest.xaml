@@ -1,0 +1,14 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Testing_TextBox" EntryPointType="Testing_TextBox.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Testing_TextBox" Source="Testing_TextBox.dll" />
+    <AssemblyPart x:Name="Microsoft.Silverlight.Testing" Source="Microsoft.Silverlight.Testing.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight" Source="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" />
+    <AssemblyPart x:Name="nunit.framework" Source="nunit.framework.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Compatibility" Source="NUnit.Silverlight.Compatibility.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Framework" Source="NUnit.Silverlight.Framework.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Metadata" Source="NUnit.Silverlight.Metadata.dll" />
+    <AssemblyPart x:Name="TextEditor" Source="TextEditor.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -41,6 +41,7 @@ namespace TextEditor
                 dd.mhs.DeleteOnSubmit(DRemove);
                 dd.SubmitChanges();
             }
+            NavigationService.GoBack();
         }
         private void Back_Click(object sender, EventArgs e)
         {

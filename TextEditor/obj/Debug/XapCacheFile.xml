@@ -1,14 +1,20 @@
-﻿<xapCache source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/06/2014 0:45:57">
+﻿<xapCache source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\TextEditor.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="17/06/2014 15:21:21">
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="21/04/2014 20:28:23" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Background.png" archivePath="Background.png" lastWriteTime="25/03/2014 18:26:39" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="19/03/2014 12:55:14" />
-  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.dll" archivePath="TextEditor.dll" lastWriteTime="12/06/2014 0:45:56" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.dll" archivePath="TextEditor.dll" lastWriteTime="17/06/2014 15:21:19" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\elmah.corelibrary.1.2.2\lib\Elmah.dll" archivePath="Elmah.dll" lastWriteTime="26/03/2014 17:42:56" />
   <file source="g:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="19/03/2012 16:29:06" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="06/10/2011 11:33:14" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\silverlight.unittest.wp7.3.0.40609.1000\lib\sl4-wp71\Microsoft.Silverlight.Testing.dll" archivePath="Microsoft.Silverlight.Testing.dll" lastWriteTime="17/06/2014 13:54:06" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\silverlight.unittest.wp7.3.0.40609.1000\lib\sl4-wp71\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" archivePath="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" lastWriteTime="17/06/2014 13:54:06" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\NUnit.2.6.3\lib\nunit.framework.dll" archivePath="nunit.framework.dll" lastWriteTime="17/06/2014 13:53:46" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\NUnit.WP.2.5.8\lib\sl3-wp\NUnit.Silverlight.Compatibility.dll" archivePath="NUnit.Silverlight.Compatibility.dll" lastWriteTime="17/06/2014 13:54:06" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\NUnit.WP.2.5.8\lib\sl3-wp\NUnit.Silverlight.Framework.dll" archivePath="NUnit.Silverlight.Framework.dll" lastWriteTime="17/06/2014 13:54:06" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\NUnit.WP.2.5.8\lib\sl3-wp\NUnit.Silverlight.Metadata.dll" archivePath="NUnit.Silverlight.Metadata.dll" lastWriteTime="17/06/2014 13:54:06" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\packages\RateMyApp.1.1.0\lib\sl4-wp71\RateMyApp.dll" archivePath="RateMyApp.dll" lastWriteTime="26/03/2014 17:55:52" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\App_Readme\Elmah.txt" archivePath="App_Readme\Elmah.txt" lastWriteTime="26/03/2014 17:43:00" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="22/03/2014 17:48:14" />
-  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="28/03/2014 17:35:45" />
+  <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="17/06/2014 13:59:31" />
   <file source="G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="25/03/2014 18:26:39" />
 </xapCache>

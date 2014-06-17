@@ -4,6 +4,12 @@
     <AssemblyPart x:Name="Elmah" Source="Elmah.dll" />
     <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
     <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Microsoft.Silverlight.Testing" Source="Microsoft.Silverlight.Testing.dll" />
+    <AssemblyPart x:Name="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight" Source="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll" />
+    <AssemblyPart x:Name="nunit.framework" Source="nunit.framework.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Compatibility" Source="NUnit.Silverlight.Compatibility.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Framework" Source="NUnit.Silverlight.Framework.dll" />
+    <AssemblyPart x:Name="NUnit.Silverlight.Metadata" Source="NUnit.Silverlight.Metadata.dll" />
     <AssemblyPart x:Name="RateMyApp" Source="RateMyApp.dll" />
   </Deployment.Parts>
 </Deployment>

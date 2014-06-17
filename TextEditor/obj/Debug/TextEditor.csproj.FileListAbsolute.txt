@@ -136,3 +136,12 @@ G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextE
 G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\XapCacheFile.xml
 G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
 G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\obj\Debug\Data.g.i.cs
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Silverlight.Testing.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\nunit.framework.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\NUnit.Silverlight.Compatibility.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\NUnit.Silverlight.Framework.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\NUnit.Silverlight.Metadata.dll
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.Silverlight.Testing.xml
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.xml
+G:\Tius\Smt4\TextEditor New\TextEditor (2)\TextEditor\TextEditor\Bin\Debug\nunit.framework.xml
